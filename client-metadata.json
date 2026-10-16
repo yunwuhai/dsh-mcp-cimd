@@ -1,8 +1,8 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/yunwuhai/dsh-mcp-cimd@main/client-metadata.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/yunwuhai/dsh-mcp-cimd@cimd2/client-metadata.json",
   "client_name": "DSH (DeepSeek Harness) local MCP client",
   "redirect_uris": [
-    "http://127.0.0.1:8765/callback"
+    "http://127.0.0.1:18765/callback"
   ],
   "grant_types": [
     "authorization_code",
