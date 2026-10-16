@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/yunwuhai/dsh-mcp-cimd/main/client-metadata.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/yunwuhai/dsh-mcp-cimd@main/client-metadata.json",
   "client_name": "DSH (DeepSeek Harness) local MCP client",
   "redirect_uris": [
     "http://127.0.0.1:8765/callback"
